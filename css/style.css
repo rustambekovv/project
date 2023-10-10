@@ -1,0 +1,38 @@
+body {
+    background-color: #EE8C7F;
+}
+.wrap {
+    width: 1000px;
+    height: 450px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-left: 150px;
+}
+.all{
+    text-align: center;
+    height: 180px;
+    background-color: #fff;
+    border-radius: 20px;
+}
+.first{
+    width: 300px;
+    height: 300px;
+
+}
+.second{
+    width: 300px;
+    height: 350px;
+
+}
+.third{
+    width: 300px;
+    height: 420px;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+p {
+    color: #EE8C7F;
+}
